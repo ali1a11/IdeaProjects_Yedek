@@ -1,0 +1,850 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9e09bddd-6764-4ca2-b161-44b70571e23d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/IdeaProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BasicNavigationTests/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BasicNavigationTests/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BasicNavigationTests/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BasicNavigationTests/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BasicNavigationTests/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BasicNavigationTests/BasicNavigationTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BasicNavigationTests/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BasicNavigationTests/src/main/java/com/cbt/tests/NavigationTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BasicNavigationTests/src/main/java/com/cbt/tests/NavigationTests1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BasicNavigationTests/src/main/java/com/cbt/utilities/BrowserFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BasicNavigationTests/src/main/java/com/cbt/utilities/StringUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CucumberPracticeProject_ShortV_AA/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CucumberPracticeProject_ShortV_AA/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CucumberPracticeProject_ShortV_AA/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CucumberPracticeProject_ShortV_AA/src/test/java/com/cydeo/runner/CukesRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CucumberPracticeProject_ShortV_AA/src/test/java/com/cydeo/step_definitions/Calculator_StepDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CucumberPracticeProject_ShortV_AA/src/test/java/com/cydeo/step_definitions/EatingCucumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CucumberPracticeProject_ShortV_AA/src/test/java/com/cydeo/step_definitions/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CucumberPracticeProject_ShortV_AA/src/test/resources/features/calculator_ddt.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CucumberPracticeProject_ShortV_AA/src/test/resources/features/eating_cucumber.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DENEME.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/Example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Extra_Projects/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Extra_Projects/Extra_Projects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/JavaPractice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/JavaProgramming_AA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/liveReviewSessions/Week_14_07_08_2022/GroceryList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/liveReviewSessions/Week_14_07_08_2022/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/liveReviewSessions/Week_14_07_08_2022/ShopListMakerApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/liveReviewSessions/Week_14_07_08_2022/browserTest/Browser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/liveReviewSessions/Week_14_07_08_2022/browserTest/DemoBlazeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/liveReviewSessions/Week_14_07_08_2022/browserTest/LaptopTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/liveReviewSessions/Week_14_07_08_2022/browserTest/OS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/liveReviewSessions/Week_14_07_08_2022/browserTest/SamsungPCTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/liveReviewSessions/Week_14_07_08_2022/browserTest/TestCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/liveReviewSessions/Week_14_07_08_2022/browserTest/Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/liveReviewSessions/week_15_14_08_2022/CheckedExceptionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/liveReviewSessions/week_15_14_08_2022/ErrorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/liveReviewSessions/week_15_14_08_2022/ExceptionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/liveReviewSessions/week_15_14_08_2022/FinallyBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/liveReviewSessions/week_15_14_08_2022/MultiCatchExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/liveReviewSessions/week_16_21_08_2022/FinalKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/liveReviewSessions/week_17_28_08_2022/TestEdible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/liveReviewSessions/week_17_28_08_2022/interfaceDemo/ChromeDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/liveReviewSessions/week_17_28_08_2022/interfaceDemo/DriverObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/liveReviewSessions/week_17_28_08_2022/interfaceDemo/FirefoxDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/liveReviewSessions/week_17_28_08_2022/interfaceDemo/WebDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/liveReviewSessions/week_18_04_09_2022/interfaceDemoPolymorphism/Father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/liveReviewSessions/week_18_04_09_2022/interfaceDemoPolymorphism/Mother.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/liveReviewSessions/week_18_04_09_2022/interfaceDemoPolymorphism/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/liveReviewSessions/week_18_04_09_2022/interfaceDemoPolymorphism/SuperFather.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/liveReviewSessions/week_18_04_09_2022/interfaceDemoPolymorphism/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/liveReviewSessions/week_18_04_09_2022/interfaceDemoPolymorphism/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/liveReviewSessions/week_18_04_09_2022/polymorphismDemo/ElementsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/liveReviewSessions/week_18_04_09_2022/polymorphismDemo/InputFields.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/liveReviewSessions/week_18_04_09_2022/polymorphismDemo/Links.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/liveReviewSessions/week_18_04_09_2022/polymorphismDemo/WebElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/liveReviewSessions/week_18_04_09_2022/polymorphismDemo/WebElementUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/liveReviewSessions/week_19_11_09_2022/LIstExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/liveReviewSessions/week_19_11_09_2022/LinkListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/liveReviewSessions/week_19_11_09_2022/QueueExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/liveReviewSessions/week_19_11_09_2022/SetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/bands.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_38_Inheritance_Cont/CarTask/BMW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_38_Inheritance_Cont/CarTask/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_38_Inheritance_Cont/CarTask/ParkingLot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_38_Inheritance_Cont/CarTask/Tesla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_38_Inheritance_Cont/CarTask/Toyota.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_41_Exceptions/Checked_vs_Unchecked.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_41_Exceptions/FinallyBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_41_Exceptions/MultiCatchBlocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_41_Exceptions/TryCatchBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_42_Exceptions_Continue/Countdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_42_Exceptions_Continue/CustomExceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_42_Exceptions_Continue/DisadvantageOfThrowsKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_42_Exceptions_Continue/MorningWorkOut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_42_Exceptions_Continue/ThrowKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_42_Exceptions_Continue/ThrowKeyword2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_42_Exceptions_Continue/ThrowsKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_42_Exceptions_Continue/ThrowsKeywords2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_43_Abstraction/Throw_vs_Throws.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_43_Abstraction/car/Audi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_43_Abstraction/car/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_43_Abstraction/car/CarShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_43_Abstraction/car/Honda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_43_Abstraction/car/Tesla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_43_Abstraction/employee/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_43_Abstraction/employee/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_43_Abstraction/employee/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_43_Abstraction/employee/EmployeeObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_43_Abstraction/employee/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_43_Abstraction/employee/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_43_Abstraction/employee/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_44_Abstraction_Cont/animalTask/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_44_Abstraction_Cont/animalTask/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_44_Abstraction_Cont/animalTask/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_44_Abstraction_Cont/animalTask/Eagle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_44_Abstraction_Cont/animalTask/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_44_Abstraction_Cont/animalTask/Parrot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_44_Abstraction_Cont/animalTask/Tiger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_45_Abstraction_Cont/Extends_vs_Implements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_45_Abstraction_Cont/PropertiesOfInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_45_Abstraction_Cont/W3schools/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_45_Abstraction_Cont/W3schools/MyMainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_45_Abstraction_Cont/W3schools/Pig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_45_Abstraction_Cont/animalTask/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_45_Abstraction_Cont/animalTask/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_45_Abstraction_Cont/animalTask/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_45_Abstraction_Cont/animalTask/Drinkable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_45_Abstraction_Cont/animalTask/Eagle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_45_Abstraction_Cont/animalTask/Flyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_45_Abstraction_Cont/animalTask/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_45_Abstraction_Cont/animalTask/Parrot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_45_Abstraction_Cont/animalTask/Playable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_45_Abstraction_Cont/animalTask/Tiger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_45_Abstraction_Cont/animalTask/WildAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_45_Abstraction_Cont/shape/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_45_Abstraction_Cont/shape/Cube.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_45_Abstraction_Cont/shape/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_45_Abstraction_Cont/shape/Pentagon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_45_Abstraction_Cont/shape/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_45_Abstraction_Cont/shape/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_45_Abstraction_Cont/shape/Sphere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_45_Abstraction_Cont/shape/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_45_Abstraction_Cont/shape/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_45_Abstraction_Cont/shape/Volume.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_46_Polymorphism/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_46_Polymorphism/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_46_Polymorphism/MultiClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_46_Polymorphism/PolymorphismIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_47_Polymoprhism_Cont/EncapsulationReview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_47_Polymoprhism_Cont/InheritanceReview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_47_Polymoprhism_Cont/PolymorphismPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_47_Polymoprhism_Cont/PolymorphismPractice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_47_Polymoprhism_Cont/ReferanceTypeCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_48_Collections/ListIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_49_Collections_Cont/QueuePractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_49_Collections_Cont/SetInterfacePractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_49_Collections_Cont/SetPractice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_50_Collections_Cont/IterablePractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_50_Collections_Cont/IterablePractice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_50_Collections_Cont/ListSetPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_50_Collections_Cont/RemoveEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_50_Collections_Cont/RemovePalindromes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_51_Map_Intro_Enum/Browser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_51_Map_Intro_Enum/FrequencyOfCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_51_Map_Intro_Enum/IteratingTheMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_51_Map_Intro_Enum/Level.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_51_Map_Intro_Enum/MapClasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_51_Map_Intro_Enum/MapMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_51_Map_Intro_Enum/MapPractice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_51_Map_Intro_Enum/MapPractice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_51_Map_Intro_Enum/MapPractice3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_51_Map_Intro_Enum/MapPractice4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_51_Map_Intro_Enum/Season.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_51_Map_Intro_Enum/TestENUM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_52_Map_Cont/ArrayOfMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_52_Map_Cont/ListOfMapPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_52_Map_Cont/MyFirstFunctionalInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_52_Map_Cont/MyFirstFunctionalInterfaceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_52_Map_Cont/MySecondFunctionalInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_52_Map_Cont/MySecondFunctionalInterfaceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_52_Map_Cont/NestedMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_52_Map_Cont/UniqueCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_53_Build_in_Functional_Interfaces_Stream/BuildinFunctionalInterfaces1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_53_Build_in_Functional_Interfaces_Stream/BuildinFunctionalInterfaces2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_53_Build_in_Functional_Interfaces_Stream/LambdaExpressions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_53_Build_in_Functional_Interfaces_Stream/MapPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_53_Build_in_Functional_Interfaces_Stream/MyThirdFunctionalInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/day_53_Build_in_Functional_Interfaces_Stream/StreamPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/Avengers_18_08_2022/Task/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/Avengers_18_08_2022/Task/OnSaleItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/Avengers_18_08_2022/Task/Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/Avengers_18_08_2022/Task/TJMaxx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/IteratorIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_10/AverageOfSelectedNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_10/Comparable/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_10/Comparable/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_10/MatchesMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_10/Stream2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_10/Stream3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_10/Streams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_10/TerminalOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_10/enumClass/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_10/enumClass/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_10/enumClass/Hand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_10/enumClass/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_10/enumClass/Suit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_10/implementingMultipleInterfaces/Identifiable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_10/implementingMultipleInterfaces/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_10/intermediateOperations/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_10/intermediateOperations/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_10/iterator/IteratorEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_10/objectsAndStream/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_10/objectsAndStream/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_10/objectsAndStream/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_10/recap/String_Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_10/recap/comparable/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_10/recap/comparable/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_10/recap/comparable/SortingMethodAsLambdaExpression/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_10/recap/comparable/SortingMethodAsLambdaExpression/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_10/recap/enumaretedType/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_10/recap/enumaretedType/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_10/recap/enumaretedType/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_10/recap/enumaretedType/Suit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_10/recap/filesAndStream/FileRead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_10/recap/filesAndStream/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_10/recap/filesAndStream/Presidents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_10/recap/filesAndStream/TestFile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_10/recap/filesAndStream/presidents.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_10/recap/iterator/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_10/recap/iterator/Hand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_10/recap/iterator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_10/recap/iterator/Suit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_10/recap/regularExpressions/RegularExpressions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_10/recap/sortingByMultipleCriteria/Film.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_10/recap/sortingByMultipleCriteria/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_10/recap/stream/LambdaExpressions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_10/recap/stream/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_10/recap/stream/PersonStreamUse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_10/recap/stream/StreamIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_10/recap/stream/StreamMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_10/recap/stream/book/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_10/recap/stream/book/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_10/recap/stream/book/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_10/regularExpressions/RegularExpressions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_10/sortingByMultipleCriteria/Film.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_10/sortingByMultipleCriteria/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_10/streamExamples/JavaStreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_10/streamExamples/StreamExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_10/streamExamples/bands.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_10/streamExamples/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_10/streamExamples/from.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_11/exceptions/ExceptionsExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_11/exceptions/Grade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_11/exceptions/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_11/exceptions/Statistics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_11/flightControl/TextUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_11/flightControl/domain/Airplane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_11/flightControl/domain/Flight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_11/flightControl/domain/Place.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_11/flightControl/logic/FlightControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_11/processingFiles/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_11/processingFiles/Storer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_11/processingFiles/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_12/Randomness/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_12/Randomness/Raffle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_12/Randomness/WeatherMan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_12/hashMap/HashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_12/hashMap/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_12/hashMap/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_12/list/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_12/list/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_12/multidimensional/MultidimensionalIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_12/multidimensional/MultidimensionalIntro2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_12/typeParameters/Info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_12/typeParameters/Locker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_12/typeParameters/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_12/typeParameters/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_9/Abstract_Classes/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_9/Abstract_Classes/Operation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_9/Abstract_Classes/PlusOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_9/Abstract_Classes/UserInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_9/Interface/InterfaceIntro/Ebook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_9/Interface/InterfaceIntro/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_9/Interface/InterfaceIntro/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_9/Interface/InterfaceIntro/Readable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_9/Interface/InterfaceIntro/ReadingList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_9/Interface/InterfaceIntro/TextMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_9/ObjectPolymorphism/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_9/ObjectPolymorphism/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_9/counter/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_9/counter/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_9/counter/SuperCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_9/polymorphism/ColorPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_9/polymorphism/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_9/polymorphism/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_9/polymorphism/Point3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_9/polymorphism/PolymorphismQuiz/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_9/polymorphism/PolymorphismQuiz/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_9/polymorphism/PolymorphismQuiz/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_Part8/HashSet/HashSetIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_Part8/hashMap/HashMap2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_Part8/hashMap/HashMapIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/MOOC_Part8/hashMap/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/OjjectSorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/PerformanceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/ScannerEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/SetIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/U3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/file_Read_and_Write/ReadFile_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/file_Read_and_Write/Write_File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/final2/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/final2/PersonObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/islemSuresiHesaplama.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/sorting_Equal_HashCode/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/deneme/sorting_Equal_HashCode/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/AritmeticOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/ArrayList_For_Each_Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/ArrayList_For_Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/ArrayList_Intro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/ArrayList_Methods_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/ArrayList_Methods_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/ArrayList_RemoveIf_Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/Array_For_Each_Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/Array_Intro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/Array_Multidimensional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/Array_iterating.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/Arrays_utilty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/Collections_Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/Concatenation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/EscapeSequences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/GarbageCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/IfElseStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/LogicalOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/Loops_Do_While.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/Loops_Nested_Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/Loops_While.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/Loops_break_continue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/Loops_for.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/Method_Custom_Void.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/Method_Overloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/Method_Parameters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/Method_Return.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/MultiBranchIfStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/NestedIfStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/OOP_abstraction/AbstractClacc_vs_ConcreteClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/OOP_abstraction/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/OOP_abstraction/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/OOP_abstraction/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/OOP_abstraction/ShapeObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/OOP_abstraction/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/OOP_abstraction_interface/AbstractClass_vs_Interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/OOP_abstraction_interface/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/OOP_abstraction_interface/Cube.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/OOP_abstraction_interface/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/OOP_abstraction_interface/Extends_vs_Implements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/OOP_abstraction_interface/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/OOP_abstraction_interface/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/OOP_abstraction_interface/ShapeObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/OOP_abstraction_interface/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/OOP_abstraction_interface/Volume.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/OOP_polymorphism/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/OOP_polymorphism/Cube.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/OOP_polymorphism/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/OOP_polymorphism/InstanceOfKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/OOP_polymorphism/OOP_Polymorphism_Intro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/OOP_polymorphism/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/OOP_polymorphism/Reference_Type_Castings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/OOP_polymorphism/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/OOP_polymorphism/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/OOP_polymorphism/Volume.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/PrimitiveCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/PrimitiveDataTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/RelationalsOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/ScannerIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/ShorthandOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/SingleIfStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/StringBuilderClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/StringIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/StringMethods_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/StringMethods_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/StringMethods_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/SwitchStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/Ternaries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/Thread_Process_Synchronized.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/UnaryOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/Wrapper_Classes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/accessModifiers/AccessModifiers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/accessModifiers/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/accessModifiers/protectedAccessM/AccessModifiers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/accessModifiers/protectedAccessM/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/collection/Iterable_Intro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/collection/ListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/collection/QueueDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/collection/SetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/custom_class/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/custom_class/DogObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/custom_class_constructors_this/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/custom_class_constructors_this/EmployeeObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/encapsulation/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/encapsulation/EmployeeObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/enum_Intro/Day.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/enum_Intro/Enum_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/exceptions/ExceptionsIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/exceptions/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/exceptions/ThrowKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/exceptions/ThrowsKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/exceptions/Try_Catch_Blocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/finalK/FinalClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/finalK/FinalMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/finalK/FinalVariables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/functionalInterface/BiConsumerPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/functionalInterface/BiConsumerPractice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/functionalInterface/BiFunctionPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/functionalInterface/BiPredicatePractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/functionalInterface/ConsumerPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/functionalInterface/ConsumerPractice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/functionalInterface/FunctionPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/functionalInterface/MyInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/functionalInterface/PraticetePractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/functionalInterface/PraticetePractice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/functionalInterface/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/generics/Generics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/generics/Generics_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/inheritance/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/inheritance/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/inheritance/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/inheritance/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/inheritance/Zoo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/inheritance_types/HierarchicalInheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/inheritance_types/Multilevelnheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/inheritance_types/SingleInheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/map/MapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/map/Map_Intro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/map/Map_Iteration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/map/Map_Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/method_overriding/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/method_overriding/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/method_overriding/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/method_overriding/ShapeObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/method_overriding/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/static_block/StaticBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/static_block/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/statics/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/statics/CircleObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/super_keyword/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/super_keyword/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/super_keyword/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/super_keyword/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/from_Short_Videos/super_keyword/Zoo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/testFileRead.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/src/utilities/Sleep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgramming_AA/task_Solutions/task_Solutions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReplitPractice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/regression_Short_Videos.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/base/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/base/TestBase2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/liveReview/extraTask/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/liveReview/week_11_09_2022/Assertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/liveReview/week_19_09_2022/IFrames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/liveReview/week_19_09_2022/Windows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/pages/DoubleClickPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/pages/DynamicControlsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/pages/DynamicLoad1Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/pages/DynamicLoad7Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/pages/LibraryLoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/pages/LibraryLoginPage_AA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/pages/LibraryLoginPage_AA_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/day10_upload_actions_jsexecutor/T1_registration_Form.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/day10_upload_actions_jsexecutor/T2_Upload_Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/day10_upload_actions_jsexecutor/T3_Actions_Hoover.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/day10_upload_actions_jsexecutor/T6_JavascriptExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/day11_actions_jsexecutor_practice/ActionsPractices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/day11_actions_jsexecutor_practice/T1_Circle_Drag_and_Drop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/day11_actions_jsexecutor_practice/T7_Scroll_JSExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/day12_pom_design_explicit_wait/POMPractices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/day12_pom_design_explicit_wait/POMPractices_AA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/day12_pom_design_explicit_wait/WebDriverWaitPractices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/day13_review_practices/ExplicitWaitPractices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/day13_review_practices/T1_DoubleClick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/day2_locators_getText_getAttribute/T1_CydeoVerifications.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/day2_locators_getText_getAttribute/T2_LinkTextPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/day2_locators_getText_getAttribute/T3_GoogleSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/day2_locators_getText_getAttribute/T4_LibraryLoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/day2_locators_getText_getAttribute/T5_getText_getAttribute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/day2_locators_getText_getAttribute/day2_Homeworks/T01_Etsy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/day2_locators_getText_getAttribute/day2_Homeworks/T02_ZeroBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/day2_locators_getText_getAttribute/day2_Homeworks/T03_Google_Gmail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/day2_locators_getText_getAttribute/day2_Homeworks/T04_ClassLocator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/day2_locators_getText_getAttribute/day2_Homeworks_CSS/T01_Etsy_CSS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/day2_locators_getText_getAttribute/day2_Homeworks_CSS/T02_ZeroBank_CSS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/day2_locators_getText_getAttribute/day2_Homeworks_CSS/T03_Google_Gmail_CSS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/day2_locators_getText_getAttribute/day2_Homeworks_CSS/T04_ClassLocator_CSS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/day2_locators_getText_getAttribute/day2_Homeworks_XPath/T01_Etsy_XPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/day2_locators_getText_getAttribute/day2_Homeworks_XPath/T02_ZeroBank_XPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/day2_locators_getText_getAttribute/day2_Homeworks_XPath/T03_Google_Gmail_XPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/day2_locators_getText_getAttribute/day2_Homeworks_XPath/T04_ClassLocator_XPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/day4_findElements_checkboxes_radio/T1_xpath_cssSelector_practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/day4_findElements_checkboxes_radio/T4_findElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/day4_findElements_checkboxes_radio/T5_Checkboxes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/day4_findElements_checkboxes_radio/T6_StaleElementReferenceException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/day5_dynamic_webElements_testing_Intro/T1_StaleElementRefEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/day5_dynamic_webElements_testing_Intro/T2_RadioButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/day5_dynamic_webElements_testing_Intro/T3_RadioButton_Cont.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/day5_dynamic_webElements_testing_Intro/T4_SimpleDropdowns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/day5_dynamic_webElements_testing_Intro/TestNG_Intro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/day5_dynamic_webElements_testing_Intro/TestNG_Selenium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/day6_Alerts_Iframes_Windows/DropdownPractices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/day6_Alerts_Iframes_Windows/T1_Alert_Practices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/day6_Alerts_Iframes_Windows/T4_IframePractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/day6_Alerts_Iframes_Windows/T5_Windows_Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/day7_webtables_utilities_javafaker/T1_WindowHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/day7_webtables_utilities_javafaker/T1_WindowHandling_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/day7_webtables_utilities_javafaker/T3_CRM_LOGIN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/day8_properties_config_reader/LearningProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/day8_properties_config_reader/ReadingProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/day8_properties_config_reader/T1_WebTable_Order_verify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/day8_properties_config_reader/T4_Config_Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/day9/JavaFakerPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/day9/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/day9/SingletonPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/day9/T3_CRM_LOGIN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/day9/T4_Config_Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/from_ShortVideos/BasicNavigation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/from_ShortVideos/CSS_Locator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/from_ShortVideos/CloseAndQuit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/from_ShortVideos/FindElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/from_ShortVideos/FullScreen_Maximize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/from_ShortVideos/GetTitle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/from_ShortVideos/LocatingCheckBoxes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/from_ShortVideos/LocatingRadioButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/from_ShortVideos/Locating_Dropdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/from_ShortVideos/Locating_Dropdown_MultipleSelection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/from_ShortVideos/Locating_html_Dropdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/from_ShortVideos/LocatorPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/from_ShortVideos/Locators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/from_ShortVideos/Tables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/from_ShortVideos/Xpath_Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/from_ShortVideos_Test/Alerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/from_ShortVideos_Test/CRMLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/from_ShortVideos_Test/CRMLoginWithDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/from_ShortVideos_Test/DataProviderExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/from_ShortVideos_Test/Faker_Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/from_ShortVideos_Test/FileUploadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/from_ShortVideos_Test/IFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/from_ShortVideos_Test/JSExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/from_ShortVideos_Test/LibraryLoginTest_POM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/from_ShortVideos_Test/Synchronization_ExplicitWait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/from_ShortVideos_Test/TestNGTestNG_Annotations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/from_ShortVideos_Test/TestNG_Hard_Soft_Assertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/from_ShortVideos_Test/TestNG_Intro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/from_ShortVideos_Test/TestNG_Selenium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/from_ShortVideos_Test/TestNG_SeleniumExtendsTestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/from_ShortVideos_Test/Windows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/guru99Examples/LocatingByID.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/guru99Examples/LocatingByName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/guru99Examples/MercuryTours_DropDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/guru99Examples/findElement_Elements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/other/IsDisplayed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/other/RadioButtons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/tests/other/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/utilities/BrowserUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/utilities/CRM_Utilities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/utilities/ConfigurationReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/utilities/ConfigurationReaderForShortV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/utilities/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/utilities/Driver2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/utilities/WebDriverFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/utilities/WebDriverFactoryForShortV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeProject_AA/src/test/java/com/cydeo/utilities/WebTableUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/ApplicationsLaunchParameters/src/main/java/com/example/dictionary/Dictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/ApplicationsLaunchParameters/src/main/java/com/example/dictionary/InputView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/ApplicationsLaunchParameters/src/main/java/com/example/dictionary/PracticeApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/ApplicationsLaunchParameters/src/main/java/com/example/dictionary/PracticeView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/ApplicationsLaunchParameters/src/main/java/com/example/mooc13/BackAndForthApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/ApplicationsLaunchParameters/src/main/java/com/example/mooc13/ButtonAndLabelApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/ApplicationsLaunchParameters/src/main/java/com/example/mooc13/ButtonAndLabelApplication2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/ApplicationsLaunchParameters/src/main/java/com/example/mooc13/ButtonAndTextFieldApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/ApplicationsLaunchParameters/src/main/java/com/example/mooc13/ExampleApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/ApplicationsLaunchParameters/src/main/java/com/example/mooc13/GreeterApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/ApplicationsLaunchParameters/src/main/java/com/example/mooc13/JavaFxApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/ApplicationsLaunchParameters/src/main/java/com/example/mooc13/JavaFxApplication2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/ApplicationsLaunchParameters/src/main/java/com/example/mooc13/JavaFxApplication3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/ApplicationsLaunchParameters/src/main/java/com/example/mooc13/JavaFxApplication4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/ApplicationsLaunchParameters/src/main/java/com/example/mooc13/JavaFxApplication5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/ApplicationsLaunchParameters/src/main/java/com/example/mooc13/JokeApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/ApplicationsLaunchParameters/src/main/java/com/example/mooc13/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/ApplicationsLaunchParameters/src/main/java/com/example/mooc13/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/ApplicationsLaunchParameters/src/main/java/com/example/mooc13/MultipleViews.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/ApplicationsLaunchParameters/src/main/java/com/example/mooc13/PasswordProtectedApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/ApplicationsLaunchParameters/src/main/java/com/example/mooc13/UserTitle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/ApplicationsLaunchParameters/src/main/java/com/example/tiktaktoe/TicTacToeApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/EU9SeleniumReview/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/EU9SeleniumReview/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/EU9SeleniumReview/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/EU9SeleniumReview/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/EU9SeleniumReview/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/EU9SeleniumReview/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/EU9SeleniumReview/src/test/java/week1/FirstClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/WebDriver_Manual/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/WebDriver_Manual/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/WebDriver_Manual/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/WebDriver_Manual/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/WebDriver_Manual/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/WebDriver_Manual/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/WebDriver_Manual/src/test/java/Manual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/demo/src/main/java/com/example/demo/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/demo1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part09-Part09_03.Warehousing/src/main/java/ChangeHistory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part09-Part09_03.Warehousing/src/main/java/ProductWarehouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part09-Part09_03.Warehousing/src/main/java/ProductWarehouseWithHistory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part09-Part09_04.DifferentKindsOfBoxes/src/main/java/BoxWithMaxWeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part09-Part09_04.DifferentKindsOfBoxes/src/main/java/MisplacingBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part09-Part09_04.DifferentKindsOfBoxes/src/main/java/OneItemBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part09-Part09_05.TacoBoxes/src/main/java/CustomTacoBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part09-Part09_05.TacoBoxes/src/main/java/TripleTacoBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part09-Part09_06.InterfaceInABox/src/main/java/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part09-Part09_06.InterfaceInABox/src/main/java/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part09-Part09_06.InterfaceInABox/src/main/java/CD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part09-Part09_06.InterfaceInABox/src/main/java/Packable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part09-Part09_11.Herds/src/main/java/Herd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part09-Part09_11.Herds/src/main/java/Organism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part09-Part09_12.Animals/src/main/java/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part09-Part09_12.Animals/src/main/java/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part09-Part09_12.Animals/src/main/java/NoiseCapable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part10-Part10_17.SortThemCards/src/main/java/Hand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part11-Part11_02.ABookAndAPlane/src/main/java/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part11-Part11_02.ABookAndAPlane/src/main/java/Plane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part11-Part11_03.ShowAndTicket/src/main/java/Show.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part11-Part11_03.ShowAndTicket/src/main/java/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part11-Part11_04.StudentAndUniversity/src/main/java/University.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part11-Part11_08.FirstPackages/src/main/java/mooc/logic/ApplicationLogic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part11-Part11_08.FirstPackages/src/main/java/mooc/ui/TextInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part11-Part11_08.FirstPackages/src/main/java/mooc/ui/UserInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part11-Part11_10.FlightControl/src/main/java/FlightControl/domain/Airplane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part11-Part11_10.FlightControl/src/main/java/FlightControl/domain/Flight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part11-Part11_10.FlightControl/src/main/java/FlightControl/domain/Place.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part11-Part11_10.FlightControl/src/main/java/FlightControl/logic/FlightControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part11-Part11_10.FlightControl/src/main/java/FlightControl/ui/TextUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part13-Part13_02.ButtonAndLabel/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part13-Part13_02.ButtonAndLabel/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part13-Part13_02.ButtonAndLabel/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part13-Part13_02.ButtonAndLabel/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part13-Part13_02.ButtonAndLabel/.idea/libraries/javafx_sdk_18_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part13-Part13_02.ButtonAndLabel/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part13-Part13_02.ButtonAndLabel/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part13-Part13_02.ButtonAndLabel/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part13-Part13_03.ButtonAndTextField/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part13-Part13_03.ButtonAndTextField/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part13-Part13_03.ButtonAndTextField/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part13-Part13_03.ButtonAndTextField/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part13-Part13_03.ButtonAndTextField/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part13-Part13_03.ButtonAndTextField/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part13-Part13_08.UserTitle/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part13-Part13_08.UserTitle/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part13-Part13_08.UserTitle/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part13-Part13_08.UserTitle/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part13-Part13_08.UserTitle/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part13-Part13_08.UserTitle/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part13-Part13_09.MultipleViews/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part13-Part13_09.MultipleViews/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part13-Part13_09.MultipleViews/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part13-Part13_09.MultipleViews/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part13-Part13_09.MultipleViews/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part13-Part13_09.MultipleViews/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part13-Part13_10.Greeter/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part13-Part13_10.Greeter/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part13-Part13_10.Greeter/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part13-Part13_10.Greeter/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part13-Part13_10.Greeter/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part13-Part13_10.Greeter/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part13-Part13_11.Joke/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part13-Part13_11.Joke/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part13-Part13_11.Joke/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part13-Part13_11.Joke/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part13-Part13_11.Joke/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part13-Part13_11.Joke/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part13-Part13_12.VocabularyPractice/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part13-Part13_12.VocabularyPractice/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part13-Part13_12.VocabularyPractice/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part13-Part13_12.VocabularyPractice/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part13-Part13_12.VocabularyPractice/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part13-Part13_12.VocabularyPractice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part13-Part13_12.VocabularyPractice/src/main/java/application/Dictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part13-Part13_12.VocabularyPractice/src/main/java/application/InputView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part13-Part13_12.VocabularyPractice/src/main/java/application/PracticeView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part13-Part13_13.TicTacToe/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part13-Part13_13.TicTacToe/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part13-Part13_13.TicTacToe/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part13-Part13_13.TicTacToe/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part13-Part13_13.TicTacToe/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMCProjects/mooc-java-programming-ii/part13-Part13_13.TicTacToe/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cydeo-cucumber-junit_AA/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cydeo-cucumber-junit_AA/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cydeo-cucumber-junit_AA/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cydeo-cucumber-junit_AA/configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cydeo-cucumber-junit_AA/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cydeo-cucumber-junit_AA/src/test/java/com/cydeo/pages/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cydeo-cucumber-junit_AA/src/test/java/com/cydeo/pages/DropdownsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cydeo-cucumber-junit_AA/src/test/java/com/cydeo/pages/GoogleSearchPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cydeo-cucumber-junit_AA/src/test/java/com/cydeo/pages/OrderPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cydeo-cucumber-junit_AA/src/test/java/com/cydeo/pages/ViewAllOrdersPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cydeo-cucumber-junit_AA/src/test/java/com/cydeo/pages/WebTableLoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cydeo-cucumber-junit_AA/src/test/java/com/cydeo/pages/WikiSearchPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cydeo-cucumber-junit_AA/src/test/java/com/cydeo/runners/CukesRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cydeo-cucumber-junit_AA/src/test/java/com/cydeo/runners/FailedTestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cydeo-cucumber-junit_AA/src/test/java/com/cydeo/step_definitions/DataTable_StepDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cydeo-cucumber-junit_AA/src/test/java/com/cydeo/step_definitions/GoogleStepDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cydeo-cucumber-junit_AA/src/test/java/com/cydeo/step_definitions/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cydeo-cucumber-junit_AA/src/test/java/com/cydeo/step_definitions/Login_Step_Definitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cydeo-cucumber-junit_AA/src/test/java/com/cydeo/step_definitions/Order_StepDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cydeo-cucumber-junit_AA/src/test/java/com/cydeo/step_definitions/WebTable_StepDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cydeo-cucumber-junit_AA/src/test/java/com/cydeo/step_definitions/Wiki_StepDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cydeo-cucumber-junit_AA/src/test/java/com/cydeo/utilities/BrowserUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cydeo-cucumber-junit_AA/src/test/java/com/cydeo/utilities/ConfigurationReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cydeo-cucumber-junit_AA/src/test/java/com/cydeo/utilities/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cydeo-cucumber-junit_AA/src/test/java/com/cydeo/utilities/Driver_Yedek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cydeo-cucumber-junit_AA/src/test/resources/features/dataTables.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cydeo-cucumber-junit_AA/src/test/resources/features/googleSearch.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cydeo-cucumber-junit_AA/src/test/resources/features/login.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cydeo-cucumber-junit_AA/src/test/resources/features/webTableLogin.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cydeo-cucumber-junit_AA/src/test/resources/features/webtableOrder.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cydeo-cucumber-junit_AA/src/test/resources/features/wikiSearch.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programmingLab/programmingLab.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/liveReviewSessions/Week_14_07_08_2022/GroceryList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/liveReviewSessions/Week_14_07_08_2022/GroceryList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/liveReviewSessions/Week_14_07_08_2022/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/liveReviewSessions/Week_14_07_08_2022/Notes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/liveReviewSessions/Week_14_07_08_2022/ShopListMakerApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/liveReviewSessions/Week_14_07_08_2022/ShopListMakerApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/liveReviewSessions/Week_14_07_08_2022/browserTest/Browser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/liveReviewSessions/Week_14_07_08_2022/browserTest/Browser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/liveReviewSessions/Week_14_07_08_2022/browserTest/DemoBlazeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/liveReviewSessions/Week_14_07_08_2022/browserTest/DemoBlazeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/liveReviewSessions/Week_14_07_08_2022/browserTest/LaptopTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/liveReviewSessions/Week_14_07_08_2022/browserTest/LaptopTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/liveReviewSessions/Week_14_07_08_2022/browserTest/OS.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/liveReviewSessions/Week_14_07_08_2022/browserTest/OS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/liveReviewSessions/Week_14_07_08_2022/browserTest/SamsungPCTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/liveReviewSessions/Week_14_07_08_2022/browserTest/SamsungPCTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/liveReviewSessions/Week_14_07_08_2022/browserTest/TestCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/liveReviewSessions/Week_14_07_08_2022/browserTest/TestCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/liveReviewSessions/Week_14_07_08_2022/browserTest/Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/liveReviewSessions/Week_14_07_08_2022/browserTest/Tests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/AverageOfSelectedNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/AverageOfSelectedNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/Comparable/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/Comparable/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/Comparable/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/Comparable/Member.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/MatchesMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/MatchesMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/Stream2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/Stream2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/Stream3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/Stream3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/Streams.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/Streams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/TerminalOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/TerminalOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/enumClass/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/enumClass/Card.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/enumClass/Color.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/enumClass/Color.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/enumClass/Hand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/enumClass/Hand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/enumClass/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/enumClass/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/enumClass/Suit.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/enumClass/Suit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/implementingMultipleInterfaces/Identifiable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/implementingMultipleInterfaces/Identifiable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/implementingMultipleInterfaces/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/implementingMultipleInterfaces/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/intermediateOperations/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/intermediateOperations/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/intermediateOperations/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/intermediateOperations/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/iterator/IteratorEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/iterator/IteratorEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/objectsAndStream/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/objectsAndStream/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/objectsAndStream/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/objectsAndStream/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/objectsAndStream/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/objectsAndStream/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/recap/stream/LambdaExpressions.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/recap/stream/LambdaExpressions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/recap/stream/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/recap/stream/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/recap/stream/PersonStreamUse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/recap/stream/PersonStreamUse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/recap/stream/StreamIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/recap/stream/StreamIntro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/recap/stream/StreamMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/recap/stream/StreamMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/regularExpressions/RegularExpressions.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/regularExpressions/RegularExpressions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/sortingByMultipleCriteria/Film.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/sortingByMultipleCriteria/Film.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/sortingByMultipleCriteria/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/sortingByMultipleCriteria/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/streamExamples/JavaStreams.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/streamExamples/JavaStreams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/streamExamples/StreamExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/streamExamples/StreamExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/streamExamples/bands.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/streamExamples/bands.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/streamExamples/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/streamExamples/data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/streamExamples/from.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_10/streamExamples/from.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_9/Abstract_Classes/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_9/Abstract_Classes/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_9/Abstract_Classes/Operation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_9/Abstract_Classes/Operation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_9/Abstract_Classes/PlusOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_9/Abstract_Classes/PlusOperation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_9/Abstract_Classes/UserInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_9/Abstract_Classes/UserInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_9/Interface/InterfaceIntro/Ebook.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_9/Interface/InterfaceIntro/Ebook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_9/Interface/InterfaceIntro/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_9/Interface/InterfaceIntro/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_9/Interface/InterfaceIntro/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_9/Interface/InterfaceIntro/Printer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_9/Interface/InterfaceIntro/Readable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_9/Interface/InterfaceIntro/Readable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_9/Interface/InterfaceIntro/ReadingList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_9/Interface/InterfaceIntro/ReadingList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_9/Interface/InterfaceIntro/TextMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_9/Interface/InterfaceIntro/TextMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_9/ObjectPolymorphism/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_9/ObjectPolymorphism/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_9/ObjectPolymorphism/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_9/ObjectPolymorphism/Printer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_9/counter/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_9/counter/Counter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_9/counter/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_9/counter/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_9/counter/SuperCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_9/counter/SuperCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_9/polymorphism/ColorPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_9/polymorphism/ColorPoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_9/polymorphism/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_9/polymorphism/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_9/polymorphism/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_9/polymorphism/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_9/polymorphism/Point3D.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_9/polymorphism/Point3D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_9/polymorphism/PolymorphismQuiz/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_9/polymorphism/PolymorphismQuiz/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_9/polymorphism/PolymorphismQuiz/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_9/polymorphism/PolymorphismQuiz/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_9/polymorphism/PolymorphismQuiz/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_9/polymorphism/PolymorphismQuiz/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_Part8/HashSet/HashSetIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_Part8/HashSet/HashSetIntro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_Part8/hashMap/HashMap2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_Part8/hashMap/HashMap2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_Part8/hashMap/HashMapIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_Part8/hashMap/HashMapIntro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_Part8/hashMap/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/DENEME/MOOC_Part8/hashMap/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/bands.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/bands.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/day_38_Inheritance_Cont/CarTask/BMW.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/day_38_Inheritance_Cont/CarTask/BMW.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/day_38_Inheritance_Cont/CarTask/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/day_38_Inheritance_Cont/CarTask/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/day_38_Inheritance_Cont/CarTask/ParkingLot.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/day_38_Inheritance_Cont/CarTask/ParkingLot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/day_38_Inheritance_Cont/CarTask/Tesla.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/day_38_Inheritance_Cont/CarTask/Tesla.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/day_38_Inheritance_Cont/CarTask/Toyota.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/day_38_Inheritance_Cont/CarTask/Toyota.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/day_41_Exceptions/Checked_vs_Unchecked.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/day_41_Exceptions/Checked_vs_Unchecked.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/day_41_Exceptions/FinallyBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/day_41_Exceptions/FinallyBlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/day_41_Exceptions/MultiCatchBlocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/day_41_Exceptions/MultiCatchBlocks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/day_41_Exceptions/TryCatchBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/day_41_Exceptions/TryCatchBlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/day_42_Exceptions_Continue/Countdown.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/day_42_Exceptions_Continue/Countdown.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/day_42_Exceptions_Continue/CustomExceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/day_42_Exceptions_Continue/CustomExceptions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/day_42_Exceptions_Continue/DisadvantageOfThrowsKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/day_42_Exceptions_Continue/DisadvantageOfThrowsKeyword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/day_42_Exceptions_Continue/MorningWorkOut.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/day_42_Exceptions_Continue/MorningWorkOut.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/day_42_Exceptions_Continue/ThrowKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/day_42_Exceptions_Continue/ThrowKeyword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/day_42_Exceptions_Continue/ThrowKeyword2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/day_42_Exceptions_Continue/ThrowKeyword2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/day_42_Exceptions_Continue/ThrowsKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/day_42_Exceptions_Continue/ThrowsKeyword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/day_42_Exceptions_Continue/ThrowsKeywords2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/day_42_Exceptions_Continue/ThrowsKeywords2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/utilities/Sleep.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/utilities/Sleep.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="28e9IVbz2wtVRMMBlBFpA7oLSd7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/eyela/IdeaProjects/SeleniumPracticeProject_AA"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e09bddd-6764-4ca2-b161-44b70571e23d" name="Changes" comment="" />
+      <created>1651566107329</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651566107329</updated>
+      <workItem from="1665537959095" duration="29000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

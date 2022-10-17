@@ -1,0 +1,24 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<!-- to test more than one test together -->
+
+<suite name = "regression suite">
+    <test name="Selenium test">
+        <classes>
+            <class name="com.cydeo.tests.from_ShortVideos_Test.TestNG_Selenium"></class>
+        </classes>
+    </test>
+
+    <test name="TestNG intro">
+        <classes>
+            <class name="com.cydeo.tests.from_ShortVideos_Test.TestNG_Intro"></class>
+            <class name="com.cydeo.tests.from_ShortVideos_Test.TestNG_Hard_Soft_Assertions"></class>
+        </classes>
+    </test>
+    
+    <test name="Test package">
+        <packages>
+            <package name="com.cydeo.tests.from_ShortVideos_Test"></package>
+        </packages>
+    </test>
+
+</suite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Example/Example.iml" filepath="$PROJECT_DIR$/Example/Example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Extra_Projects/Extra_Projects.iml" filepath="$PROJECT_DIR$/Extra_Projects/Extra_Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaPractice/JavaPractice.iml" filepath="$PROJECT_DIR$/JavaPractice/JavaPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaProgramming_AA/JavaProgramming_AA.iml" filepath="$PROJECT_DIR$/JavaProgramming_AA/JavaProgramming_AA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReplitPractice/ReplitPractice.iml" filepath="$PROJECT_DIR$/ReplitPractice/ReplitPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/programmingLab/programmingLab.iml" filepath="$PROJECT_DIR$/programmingLab/programmingLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaProgramming_AA/task_Solutions/task_Solutions.iml" filepath="$PROJECT_DIR$/JavaProgramming_AA/task_Solutions/task_Solutions.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/EU09_Git_Book" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EU09_GroupPRoject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EU9-CucumberJunit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EU9-Selenium" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EU9SeleniumReview" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EU9_Cucumber_Review" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EU9_Group08_Project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Git_Branching" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JavaProgrammingEU9" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JavaWeek12Project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/agile-group-project-documentation-master" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cydeo-cucumber-junit_AA" vcs="Git" />
+  </component>
+</project>

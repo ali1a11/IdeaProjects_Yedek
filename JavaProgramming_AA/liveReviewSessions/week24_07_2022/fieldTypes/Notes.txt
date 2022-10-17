@@ -1,0 +1,8 @@
+Static methods --> can be called withoud creating an object, belongs to the class
+
+especially at we will create utilty classes, in these classes our methods will be all static methods
+
+static vs instance
+
+1 instance methods can be called only by objects name
+2 static methods cannot reach non static fields
